@@ -1,6 +1,6 @@
 # TIL
 
-> Today I Learned
+:spiral_notepad: Today I Learned
 
 Inspired by [https://github.com/simonw/til](https://github.com/simonw/til) and
 [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
